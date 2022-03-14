@@ -1,5 +1,13 @@
 ## Sensitivity Analysis of a Chinese Solar Greenhouse (CSG) Climate Model
 
+**Author:** Citlali Melchor Ramírez
+
+**Supervisors:** dr.ing. RJC (Rachel) van Ooteghem MSc; dr. D (Daniel) Reyes Lastiri MSc
+
+**Date:** December 2021
+
+This project is part of my Master Thesis in Biosystems Engineering at *Wageningen University & Research* 
+
 ### Abstract
 
 The Chinese Solar Greenhouse (CSG) is a type of protected cultivation applied in the northern
